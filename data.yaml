@@ -1,0 +1,5 @@
+train: /kaggle/input/brain-tumor-detection/train/images
+val: /kaggle/input/brain-tumor-detection/valid/images
+
+nc: 1
+names: ['object']
