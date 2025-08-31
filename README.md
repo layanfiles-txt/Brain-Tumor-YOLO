@@ -32,7 +32,7 @@ How to Use
 
 Clone this repository:
 
-git clone https://github.com/yourusername/Brain-Tumor-YOLO.git
+git clone https://github.com/layanfiles-txt/Brain-Tumor-YOLO.git
 
 
 Open test_model.ipynb in Jupyter Notebook.
